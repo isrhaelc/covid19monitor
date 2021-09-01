@@ -1,11 +1,18 @@
 {
   "expo": {
-    "name": "covid19monitor",
+    "name": "Dados Covid-19",
     "slug": "covid19monitor",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "icon": "./resources/icon.png",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.isrhaelc.covid19monitor",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.isrhaelc.covid19monitor",
+      "versionCode": 1
+    }
   },
-  "name": "covid19monitor"
+  "name": "Dados Covid-19"
 }

@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "covid19monitor",
+    "slug": "covid19monitor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "covid19monitor"
+}
